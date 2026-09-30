@@ -6,7 +6,7 @@ package com.mycompany.horoscopo;
 
 /**
  *
- * @author DanielCardoso
+ * @author JhéssikLeal
  */
 public class Horoscopo {
 
